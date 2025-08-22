@@ -1,0 +1,4 @@
+uf,fonte,url,data_publicacao,programa_hint
+AL,DOE_PDF,https://exemplo.al.gov.br/doe/edicao-2025-08-01.pdf,2025-08-01,PCA
+CE,DOE_HTML,https://exemplo.ce.gov.br/doe/pagina?id=12345,2025-08-02,FDI
+AL,SEI_PUB_PDF,https://exemplo.seiplataforma.al.gov.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_visualizar&id_documento=9999,2025-08-03,
